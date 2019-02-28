@@ -1,2 +1,1 @@
-this is sample text and has been edited
-within a branch
+branch mode
